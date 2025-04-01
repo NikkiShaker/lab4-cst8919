@@ -25,8 +25,18 @@ Nikki Shakeraneh						<br>			 April 1, 2025
 
 <br>
 
-  * da
-  * afe
+  * Permissions confirming the Azure account access
+    
+    ![image](https://github.com/user-attachments/assets/34e26ce2-922b-428f-97bd-350bbde6e652)
+
+<br>
+
+  * Sample input, output from the application
+    
+    ![image](https://github.com/user-attachments/assets/82c903cf-e834-40f0-bc0a-91160affad47)
+
+    <br>
+
   * Each Individual Secret
     ![image](https://github.com/user-attachments/assets/820dd35a-5d7e-4616-b8c4-77a7e53f85d4)
     ![image](https://github.com/user-attachments/assets/653e9b0a-9f93-4390-b6bc-32c3d7eeb8f1)
